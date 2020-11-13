@@ -7,5 +7,3 @@ function changeColor() {
   
     document.body.style.background = bgColor;
     }
-
-random_bg_color();
